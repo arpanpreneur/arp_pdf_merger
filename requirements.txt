@@ -1,0 +1,2 @@
+pypdf==3.12.2
+PySimpleGUI==4.60.5
